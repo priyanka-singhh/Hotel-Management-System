@@ -1,0 +1,164 @@
+
+                        ****************************
+                        * HOTEL MANAGEMENT PROJECT *
+                        ****************************
+
+
+
+                Made By:    ->Priyanka Singh
+
+
+        Press any key to continue..!!
+                        **************************
+                        ***hotel specifications***
+                        **************************
+
+                NAME : Hotel Park Hyatt
+                Location : 269E Arossim Beach, Cansaulim, Utorda, Goa, 403712
+                Contact no. : 98754483
+                Landmark : Mother Of God Church
+
+
+        Press any key to continue..!!
+                    ************************************
+                            * CUSTOMER'S MENU *
+                    ************************************
+
+
+                        1.Book Rooms
+                        2.Display all rooms allotted
+                        3.Display A Customer's Record
+                        4.Modify Record
+                        5.Delete Record
+                        6.Food Corner
+                        7.check out
+                        8.show all the customer's that stayed here in past
+                        9.Exit
+
+                        Enter Your Choice: 2
+
+                            List Of Rooms Allotted
+                         ----------------------------
+
+ room no         name           id proof        address         phone
+
+
+ 2              man             987654321               raj nagar       9872617
+                    ************************************
+                            * CUSTOMER'S MENU *
+                    ************************************
+
+
+                        1.Book Rooms
+                        2.Display all rooms allotted
+                        3.Display A Customer's Record
+                        4.Modify Record
+                        5.Delete Record
+                        6.Food Corner
+                        7.check out
+                        8.show all the customer's that stayed here in past
+                        9.Exit
+
+                        Enter Your Choice: 6
+
+ plz enter the room no of the customer2
+
+ enter your choice
+ 1.breakfast
+ 2.lunch
+ 3.dinner
+ 4.dessert
+ 5.exit2
+
+ ********************************
+             LUNCH MENU
+ ********************************
+
+ Item           Price
+
+----Snacks----
+ 1.French Fries........20 Rs/pack
+ 2.Chilli Potato.......55 Rs/plate
+ 3.Garlic Bread........25 Rs/slice
+----Soups----
+ 4.Sapa Cusine Soup................50 Rs/cup
+ 5.Chicken & Mushroom Soup.........70 Rs/cup
+ 6.Pumpkin Soup....................80 Rs/cup
+----Pizza----
+ 7.sapa cusine.........170 Rs
+(tomato,mozzrella,chicken,mushroom,chilli)
+ 8.Marinara............150 Rs
+(tomato,mozzrella,oregano)
+ 9.Tropicale...........160 Rs
+(tomato,mozzrella,ham,pineappla)
+ 10.exit
+.
+.
+.enter you choice.....3
+
+ ********************************
+             LUNCH MENU
+ ********************************
+
+ Item           Price
+
+----Snacks----
+ 1.French Fries........20 Rs/pack
+ 2.Chilli Potato.......55 Rs/plate
+ 3.Garlic Bread........25 Rs/slice
+----Soups----
+ 4.Sapa Cusine Soup................50 Rs/cup
+ 5.Chicken & Mushroom Soup.........70 Rs/cup
+ 6.Pumpkin Soup....................80 Rs/cup
+----Pizza----
+ 7.sapa cusine.........170 Rs
+(tomato,mozzrella,chicken,mushroom,chilli)
+ 8.Marinara............150 Rs
+(tomato,mozzrella,oregano)
+ 9.Tropicale...........160 Rs
+(tomato,mozzrella,ham,pineappla)
+ 10.exit
+.
+.
+.enter you choice.....
+4
+
+ ********************************
+             LUNCH MENU
+ ********************************
+
+ Item           Price
+
+----Snacks----
+ 1.French Fries........20 Rs/pack
+ 2.Chilli Potato.......55 Rs/plate
+ 3.Garlic Bread........25 Rs/slice
+----Soups----
+ 4.Sapa Cusine Soup................50 Rs/cup
+ 5.Chicken & Mushroom Soup.........70 Rs/cup
+ 6.Pumpkin Soup....................80 Rs/cup
+----Pizza----
+ 7.sapa cusine.........170 Rs
+(tomato,mozzrella,chicken,mushroom,chilli)
+ 8.Marinara............150 Rs
+(tomato,mozzrella,oregano)
+ 9.Tropicale...........160 Rs
+(tomato,mozzrella,ham,pineappla)
+ 10.exit
+.
+.
+.enter you choice.....10
+
+ byebye
+ invalid option
+ enter your choice
+ 1.breakfast
+ 2.lunch
+ 3.dinner
+ 4.dessert
+ 5.exit5
+
+ bye bye
+*********************************
+ your food payment = 75
+*********************************
